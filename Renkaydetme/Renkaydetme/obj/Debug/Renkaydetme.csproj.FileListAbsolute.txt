@@ -1,0 +1,10 @@
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\obj\Debug\Renkaydetme.csprojAssemblyReference.cache
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\obj\Debug\Renkaydetme.Form1.resources
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\obj\Debug\Renkaydetme.Properties.Resources.resources
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\obj\Debug\Renkaydetme.csproj.GenerateResource.cache
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\obj\Debug\Renkaydetme.csproj.CoreCompileInputs.cache
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\bin\Debug\Renkaydetme.exe.config
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\bin\Debug\Renkaydetme.exe
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\bin\Debug\Renkaydetme.pdb
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\obj\Debug\Renkaydetme.exe
+C:\Users\Setepa-i\source\repos\Renkaydetme\Renkaydetme\obj\Debug\Renkaydetme.pdb
